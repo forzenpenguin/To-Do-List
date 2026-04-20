@@ -1,4 +1,4 @@
 # To-Do-List
-Small project to recap by web development skills
+Small project to recap on web development skills
 
-https://d3xh3r.github.io/To-Do-List/
+https://forzenpenguin.github.io/To-Do-List/
